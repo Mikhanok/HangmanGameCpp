@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mihailakimov/Documents/GameHangman/GameHangman/GameHangman/output/main'
+relocations:     []
+...
